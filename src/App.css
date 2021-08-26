@@ -1,0 +1,33 @@
+.navbar-active {
+  border-bottom: 1px solid black;
+}
+a:hover {
+  text-decoration: none !important;
+  color: black !important;
+}
+a {
+  color: black !important;
+}
+.rounded-button {
+  width: 250px;
+  border-radius: 20px;
+  outline: none;
+}
+.button-color-black {
+  background-color: black;
+  color: white;
+  border: none;
+}
+.button-color-white {
+  background-color: white;
+}
+.footer {
+  height: 50%;
+  background-color: black;
+  color: white;
+}
+.input-black {
+  background-color: black;
+  border: 3px solid white;
+  border-radius: 5px;
+}
